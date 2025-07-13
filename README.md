@@ -1,10 +1,9 @@
 # <center>VaVamVa 's GitHub 👋</center>
 
-<center>
+<p align="center">
+  <img src="./Img/UECat.jpeg">
 
-![UECat](./Img/UECat.jpeg)
-</center>
-<br><br>
+<br>
 
 
 <p align="center">
