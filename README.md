@@ -1,5 +1,12 @@
 # <center>VaVamVa 's GitHub 👋</center>
 
+<center>
+
+![UECat](./Img/UECat.jpeg)
+</center>
+<br><br>
+
+
 <p align="center">
 <a href="https://github.com/VaVamVa/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaVamVa&show_icons=true&default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
